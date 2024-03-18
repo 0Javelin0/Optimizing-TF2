@@ -9,6 +9,8 @@ Steam allows for some automated commands to effect the startup of games. Some of
 2. Right-click on TF2
 3. Go to Properties > General, and scroll down to see A text box labeled 'Launch Options'
 
+- When typing in your desired launch options, make sure to seperate each with a space.
+
 ## Launch options
 - -nosteamcontroller
 > Disables compatibility with steam deck.
