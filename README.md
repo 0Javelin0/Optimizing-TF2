@@ -10,7 +10,7 @@ Steam allows for some automated commands to effect the startup of games. Some of
 3. Go to Properties > General, and scroll down to see A text box labeled 'Launch Options'
 
 ## Launch options
--nosteamcontroller
+- -nosteamcontroller
 > Disables compatibility with steam deck.
 - -nojoy
 > Disables controller compatibility.
@@ -34,10 +34,12 @@ Steam allows for some automated commands to effect the startup of games. Some of
 > Disables controller vibration
 - -nogamepadui
 > Self explanatory, disables UI for gamepad compatibility such as the steam deck.
-     
+
 (options past this point do not increase performance but improve user experience)
 
 - -noforcemaccel
 > Disables mouse acceleration
 - -novid
 > Skips the Valve intro when booting TF2
+
+# 
